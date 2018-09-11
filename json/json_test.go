@@ -4,8 +4,8 @@ import (
 	"testing"
 	"testing/quick"
 
-	mc "github.com/multiformats/go-multicodec"
-	mctest "github.com/multiformats/go-multicodec/test"
+	mc "github.com/dms3-mft/go-multicodec"
+	mctest "github.com/dms3-mft/go-multicodec/test"
 )
 
 var testCases []interface{}

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	mc "github.com/multiformats/go-multicodec"
+	mc "github.com/dms3-mft/go-multicodec"
 )
 
 func TestB64Decoding(t *testing.T) {

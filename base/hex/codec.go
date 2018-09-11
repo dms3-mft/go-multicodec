@@ -4,8 +4,8 @@ import (
 	"encoding/hex"
 	"io"
 
-	mc "github.com/multiformats/go-multicodec"
-	base "github.com/multiformats/go-multicodec/base"
+	mc "github.com/dms3-mft/go-multicodec"
+	base "github.com/dms3-mft/go-multicodec/base"
 )
 
 var (

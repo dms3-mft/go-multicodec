@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	mc "github.com/multiformats/go-multicodec"
+	mc "github.com/dms3-mft/go-multicodec"
 )
 
 var (

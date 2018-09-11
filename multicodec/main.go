@@ -9,10 +9,10 @@ import (
 	"os"
 	"strings"
 
-	mc "github.com/multiformats/go-multicodec"
-	cbor "github.com/multiformats/go-multicodec/cbor"
-	json "github.com/multiformats/go-multicodec/json"
-	mux "github.com/multiformats/go-multicodec/mux"
+	mc "github.com/dms3-mft/go-multicodec"
+	cbor "github.com/dms3-mft/go-multicodec/cbor"
+	json "github.com/dms3-mft/go-multicodec/json"
+	mux "github.com/dms3-mft/go-multicodec/mux"
 )
 
 // flags

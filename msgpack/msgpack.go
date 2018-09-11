@@ -3,7 +3,7 @@ package mc_msgpack
 import (
 	"io"
 
-	mc "github.com/multiformats/go-multicodec"
+	mc "github.com/dms3-mft/go-multicodec"
 	gocodec "github.com/ugorji/go/codec"
 )
 
